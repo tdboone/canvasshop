@@ -1,0 +1,11 @@
+{
+  "name": "canvasshop",
+  "version": "0.0.1",
+  "description": "Tools to manipulate html canvas images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trevor Boone",
+  "license": "ISC"
+}
